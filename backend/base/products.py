@@ -15,7 +15,7 @@ products = [
     {
         '_id': '2',
         'name': 'iPhone 11 Pro 256GB Memory',
-        'image': '/images/99px_ru_wallpaper_333150_panoramnij_vid_s_verhu_na_reku_okrujennuu_gorami (1).jpg',
+        'image': '/images/apple_iphone_11_64gb_purple_0.png',
         'description':
             'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
         'brand': 'Apple',
